@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hello, i'm Wanderson Junior </h1>
     <p> Computer Engineering Bachelor's student at UFMS <p>
-    <p> Focused on creating efficient, scalable, and innovative Software and Computer Vision solutions, constantly updated with the latest tech trends.</p>
+    <p> Focused on creating efficient, scalable, and innovative Software and State-of=art AI solutions, constantly updated with the latest tech trends.</p>
 </div>
 
 <div align="center">
